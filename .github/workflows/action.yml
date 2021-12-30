@@ -17,7 +17,6 @@ jobs:
 
           # Options
           user: ronnie-llamado
-          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_lines: yes
